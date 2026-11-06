@@ -11,9 +11,26 @@
       "Cloud",
       "資安"
     ],
-    "updated": "2026-11-06",
+    "updated": "2026-11-07",
     "url": "engineering/daily-tech-digest/index.html",
     "source_path": "engineering/daily-tech-digest/index.html"
+  },
+  {
+    "title": "每日技術摘要｜2026.11.07",
+    "description": "11/7 技術摘要：AWS SBOM 清冊、BigQuery Graph 計價、模型政策與 A5X 可用性。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "AWS",
+      "SBOM",
+      "BigQuery",
+      "AI",
+      "資安"
+    ],
+    "updated": "2026-11-07",
+    "url": "engineering/daily-tech-digest/2026-11-07.html",
+    "source_path": "engineering/daily-tech-digest/2026-11-07.html"
   },
   {
     "title": "每日技術摘要｜2026.11.06 Agent 的狀態、執行與政策分離 來源端主動推送的 CDC 架構",
