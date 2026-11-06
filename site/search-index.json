@@ -1,5 +1,38 @@
 [
   {
+    "title": "每日技術摘要｜最新一期與歷史文章",
+    "description": "每日技術摘要：AI、Agent、資料平台、Cloud 與資安的新聞、影響、實務建議及官方來源。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "AI",
+      "資料工程",
+      "Cloud",
+      "資安"
+    ],
+    "updated": "2026-11-06",
+    "url": "engineering/daily-tech-digest/index.html",
+    "source_path": "engineering/daily-tech-digest/index.html"
+  },
+  {
+    "title": "每日技術摘要｜2026.11.06 Agent 的狀態、執行與政策分離 來源端主動推送的 CDC 架構",
+    "description": "2026 年 11 月 6 日每日技術摘要，涵蓋 AI、Agent、資料工程、Cloud 與 Linux 資安。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "AI",
+      "Agent",
+      "資料工程",
+      "Cloud",
+      "資安"
+    ],
+    "updated": "2026-11-06",
+    "url": "engineering/daily-tech-digest/2026-11-06.html",
+    "source_path": "engineering/daily-tech-digest/2026-11-06.html"
+  },
+  {
     "title": "2027 北海道｜連假延伸・道東 10 天 9 夜",
     "description": "2027 台灣國定假日延伸的北海道 10 天 9 夜提案：含道東，自駕與大眾運輸版本、請假日期、路線地圖、季節風險及購物安排。",
     "category": "travel",
