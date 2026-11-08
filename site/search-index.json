@@ -11,9 +11,25 @@
       "Cloud",
       "資安"
     ],
-    "updated": "2026-11-08",
+    "updated": "2026-11-09",
     "url": "engineering/daily-tech-digest/index.html",
     "source_path": "engineering/daily-tech-digest/index.html"
+  },
+  {
+    "title": "每日技術摘要｜2026.11.09",
+    "description": "11/9 技術摘要：Lima 2.3.0 沙箱安全修補與實驗功能界線；ChatGPT 圖像生成服務恢復。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "Lima",
+      "Agent",
+      "資安",
+      "ChatGPT"
+    ],
+    "updated": "2026-11-09",
+    "url": "engineering/daily-tech-digest/2026-11-09.html",
+    "source_path": "engineering/daily-tech-digest/2026-11-09.html"
   },
   {
     "title": "每日技術摘要｜2026.11.08",
