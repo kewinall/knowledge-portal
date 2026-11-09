@@ -11,9 +11,28 @@
       "Cloud",
       "資安"
     ],
-    "updated": "2026-11-09",
+    "updated": "2026-11-10",
     "url": "engineering/daily-tech-digest/index.html",
     "source_path": "engineering/daily-tech-digest/index.html"
+  },
+  {
+    "title": "每日技術摘要｜2026.11.10",
+    "description": "11/10 技術摘要：Barracuda 實際利用警示、AWS Nitro Sandboxes、EKS GPU/EFA DRA，以及 Cloud Pathways GA 的適用條件與實務建議。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "Barracuda",
+      "Agent",
+      "Nitro Sandboxes",
+      "EKS",
+      "DRA",
+      "Cloud Pathways",
+      "資安"
+    ],
+    "updated": "2026-11-10",
+    "url": "engineering/daily-tech-digest/2026-11-10.html",
+    "source_path": "engineering/daily-tech-digest/2026-11-10.html"
   },
   {
     "title": "每日技術摘要｜2026.11.09",
