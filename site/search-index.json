@@ -11,9 +11,25 @@
       "Cloud",
       "資安"
     ],
-    "updated": "2026-11-12",
+    "updated": "2026-11-13",
     "url": "engineering/daily-tech-digest/index.html",
     "source_path": "engineering/daily-tech-digest/index.html"
+  },
+  {
+    "title": "2026-11-13 每日技術摘要｜資料庫修補與決策型 AI",
+    "description": "PostgreSQL 安全修補與 Gemini Decisions API 的變化、影響及實務建議。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "PostgreSQL",
+      "Gemini",
+      "Agent",
+      "資安"
+    ],
+    "updated": "2026-11-13",
+    "url": "engineering/daily-tech-digest/2026-11-13.html",
+    "source_path": "engineering/daily-tech-digest/2026-11-13.html"
   },
   {
     "title": "2026-11-12 每日技術摘要｜PostgreSQL 支援與 AWS 本機測試",
