@@ -11,9 +11,24 @@
       "Cloud",
       "資安"
     ],
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "url": "engineering/daily-tech-digest/index.html",
     "source_path": "engineering/daily-tech-digest/index.html"
+  },
+  {
+    "title": "2026-11-12 每日技術摘要｜PostgreSQL 支援與 AWS 本機測試",
+    "description": "",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "PostgreSQL",
+      "AWS",
+      "Agent"
+    ],
+    "updated": "2026-11-12",
+    "url": "engineering/daily-tech-digest/2026-11-12.html",
+    "source_path": "engineering/daily-tech-digest/2026-11-12.html"
   },
   {
     "title": "每日技術摘要｜2026.11.11",
