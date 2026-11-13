@@ -11,9 +11,25 @@
       "Cloud",
       "資安"
     ],
-    "updated": "2026-11-13",
+    "updated": "2026-11-14",
     "url": "engineering/daily-tech-digest/index.html",
     "source_path": "engineering/daily-tech-digest/index.html"
+  },
+  {
+    "title": "每日技術摘要｜2026.11.14",
+    "description": "FortiManager 修補檢查、AgentCore Runtime V2 預設變更及 Gemini 4 Hydrogen 試用評估。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "AI",
+      "Agent",
+      "Cloud",
+      "資安"
+    ],
+    "updated": "2026-11-14",
+    "url": "engineering/daily-tech-digest/2026-11-14.html",
+    "source_path": "engineering/daily-tech-digest/2026-11-14.html"
   },
   {
     "title": "2026-11-13 每日技術摘要｜資料庫修補與決策型 AI",
