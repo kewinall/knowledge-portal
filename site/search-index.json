@@ -11,9 +11,24 @@
       "Cloud",
       "資安"
     ],
-    "updated": "2026-11-14",
+    "updated": "2026-11-15",
     "url": "engineering/daily-tech-digest/index.html",
     "source_path": "engineering/daily-tech-digest/index.html"
+  },
+  {
+    "title": "每日技術摘要｜2026.11.15",
+    "description": "Synology DSM 安全修補檢查與 AWS Batch on EKS 最小權限設定。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "Cloud",
+      "Kubernetes",
+      "資安"
+    ],
+    "updated": "2026-11-15",
+    "url": "engineering/daily-tech-digest/2026-11-15.html",
+    "source_path": "engineering/daily-tech-digest/2026-11-15.html"
   },
   {
     "title": "每日技術摘要｜2026.11.14",
