@@ -1,5 +1,21 @@
 [
   {
+    "title": "每日技術摘要｜最新一期與歷史文章",
+    "description": "每日技術摘要：AI、Agent、資料平台、Cloud 與資安的新聞、影響、實務建議及官方來源。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "AI",
+      "資料工程",
+      "Cloud",
+      "資安"
+    ],
+    "updated": "2026-11-17",
+    "url": "engineering/daily-tech-digest/index.html",
+    "source_path": "engineering/daily-tech-digest/index.html"
+  },
+  {
     "title": "每日技術摘要｜2026.11.17",
     "description": "Apache HTTP Server 修補盤點與 Copilot 11/16 模型退役實際生效。",
     "category": "engineering",
@@ -13,22 +29,6 @@
     "updated": "2026-11-17",
     "url": "engineering/daily-tech-digest/2026-11-17.html",
     "source_path": "engineering/daily-tech-digest/2026-11-17.html"
-  },
-  {
-    "title": "每日技術摘要｜最新一期與歷史文章",
-    "description": "每日技術摘要：AI、Agent、資料平台、Cloud 與資安的新聞、影響、實務建議及官方來源。",
-    "category": "engineering",
-    "category_label": "工程",
-    "tags": [
-      "每日摘要",
-      "AI",
-      "資料工程",
-      "Cloud",
-      "資安"
-    ],
-    "updated": "2026-11-16",
-    "url": "engineering/daily-tech-digest/index.html",
-    "source_path": "engineering/daily-tech-digest/index.html"
   },
   {
     "title": "每日技術摘要｜2026.11.16",
