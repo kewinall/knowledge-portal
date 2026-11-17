@@ -16,6 +16,22 @@
     "source_path": "engineering/daily-tech-digest/index.html"
   },
   {
+    "title": "每日技術摘要｜2026.11.18",
+    "description": "AWS IAM 拒絕診斷、GPT-6.2 發布與 Copilot Evals 預覽。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "AI",
+      "Agent",
+      "Cloud",
+      "IAM"
+    ],
+    "updated": "2026-11-18",
+    "url": "engineering/daily-tech-digest/2026-11-18.html",
+    "source_path": "engineering/daily-tech-digest/2026-11-18.html"
+  },
+  {
     "title": "每日技術摘要｜2026.11.17",
     "description": "Apache HTTP Server 修補盤點與 Copilot 11/16 模型退役實際生效。",
     "category": "engineering",
