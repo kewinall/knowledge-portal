@@ -1,5 +1,21 @@
 [
   {
+    "title": "每日技術摘要｜2026.11.20",
+    "description": "3 則重點：GitHub CLI 事件等待、AWS AppConfig AI 設定治理，以及 EC2 效能健康與監測更新。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "AI",
+      "資料工程",
+      "Kubernetes",
+      "資安"
+    ],
+    "updated": "2026-11-20",
+    "url": "engineering/daily-tech-digest/2026-11-20.html",
+    "source_path": "engineering/daily-tech-digest/2026-11-20.html"
+  },
+  {
     "title": "每日技術摘要｜最新一期與歷史文章",
     "description": "每日技術摘要：AI、Agent、資料平台、Cloud 與資安的新聞、影響、實務建議及官方來源。",
     "category": "engineering",
