@@ -1,5 +1,21 @@
 [
   {
+    "title": "每日技術摘要｜2026-11-21｜GitLab 修補、雲端估價與來源證明",
+    "description": "GitLab Critical patch、AWS 即時估價 API 與 GitLab LOCAL_CA 實驗功能的影響和驗證建議。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "AI",
+      "資料工程",
+      "Kubernetes",
+      "資安"
+    ],
+    "updated": "2026-11-21",
+    "url": "engineering/daily-tech-digest/2026-11-21.html",
+    "source_path": "engineering/daily-tech-digest/2026-11-21.html"
+  },
+  {
     "title": "每日技術摘要｜最新一期與歷史文章",
     "description": "每日技術摘要：AI、Agent、資料平台、Cloud 與資安的新聞、影響、實務建議及官方來源。",
     "category": "engineering",
