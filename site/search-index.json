@@ -1,5 +1,21 @@
 [
   {
+    "title": "每日技術摘要｜最新一期與歷史文章",
+    "description": "每日技術摘要：AI、Agent、資料平台、Cloud 與資安的新聞、影響、實務建議及官方來源。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "AI",
+      "資料工程",
+      "Cloud",
+      "資安"
+    ],
+    "updated": "2026-11-22",
+    "url": "engineering/daily-tech-digest/index.html",
+    "source_path": "engineering/daily-tech-digest/index.html"
+  },
+  {
     "title": "每日技術摘要｜2026-11-22｜Synology 安全更新、CUR 成本欄位與 Lattice 監測",
     "description": "2 則重點＋1 則短訊：Synology DSM 安全更新、AWS CUR 2.0 標準成本欄位，以及 VPC Lattice TCP 指標。",
     "category": "engineering",
@@ -14,22 +30,6 @@
     "updated": "2026-11-22",
     "url": "engineering/daily-tech-digest/2026-11-22.html",
     "source_path": "engineering/daily-tech-digest/2026-11-22.html"
-  },
-  {
-    "title": "每日技術摘要｜最新一期與歷史文章",
-    "description": "每日技術摘要：AI、Agent、資料平台、Cloud 與資安的新聞、影響、實務建議及官方來源。",
-    "category": "engineering",
-    "category_label": "工程",
-    "tags": [
-      "每日摘要",
-      "AI",
-      "資料工程",
-      "Cloud",
-      "資安"
-    ],
-    "updated": "2026-11-21",
-    "url": "engineering/daily-tech-digest/index.html",
-    "source_path": "engineering/daily-tech-digest/index.html"
   },
   {
     "title": "每日技術摘要｜2026-11-21｜GitLab 修補、雲端估價與來源證明",
