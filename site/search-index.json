@@ -1,5 +1,21 @@
 [
   {
+    "title": "每日技術摘要｜最新一期與歷史文章",
+    "description": "每日技術摘要：AI、Agent、資料平台、Cloud 與資安的新聞、影響、實務建議及官方來源。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "AI",
+      "資料工程",
+      "Cloud",
+      "資安"
+    ],
+    "updated": "2026-11-26",
+    "url": "engineering/daily-tech-digest/index.html",
+    "source_path": "engineering/daily-tech-digest/index.html"
+  },
+  {
     "title": "每日技術摘要｜2026-11-26｜EKS 1.31 支援到期、BigQuery SQL 轉譯與 Azure 公告",
     "description": "3 則重點＋1 則短訊：EKS 1.31 延伸支援到期、BigQuery 轉譯 Databricks／Spark SQL 預覽、Azure App Service 平台已處置的漏洞，以及 Claude API 的遷移驗證。",
     "category": "engineering",
@@ -15,22 +31,6 @@
     "updated": "2026-11-26",
     "url": "engineering/daily-tech-digest/2026-11-26.html",
     "source_path": "engineering/daily-tech-digest/2026-11-26.html"
-  },
-  {
-    "title": "每日技術摘要｜最新一期與歷史文章",
-    "description": "每日技術摘要：AI、Agent、資料平台、Cloud 與資安的新聞、影響、實務建議及官方來源。",
-    "category": "engineering",
-    "category_label": "工程",
-    "tags": [
-      "每日摘要",
-      "AI",
-      "資料工程",
-      "Cloud",
-      "資安"
-    ],
-    "updated": "2026-11-25",
-    "url": "engineering/daily-tech-digest/index.html",
-    "source_path": "engineering/daily-tech-digest/index.html"
   },
   {
     "title": "每日技術摘要｜2026-11-25｜VMware 安全更新、Kubernetes 1.38 預告與 RDS SQL Server",
