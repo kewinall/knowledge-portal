@@ -11,9 +11,26 @@
       "Cloud",
       "資安"
     ],
-    "updated": "2026-11-26",
+    "updated": "2026-11-27",
     "url": "engineering/daily-tech-digest/index.html",
     "source_path": "engineering/daily-tech-digest/index.html"
+  },
+  {
+    "title": "每日技術摘要｜2026-11-27｜Linux 核心修補、BigQuery 跨雲連線與 AWS Envoy",
+    "description": "3 則重點＋1 則短訊：Linux 核心弱點盤點、BigQuery 跨雲連線 GA、AWS 受管 Envoy GA，以及 Transcribe Turbo 中文批次預覽。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "資安",
+      "Kubernetes",
+      "資料工程",
+      "Cloud",
+      "AI"
+    ],
+    "updated": "2026-11-27",
+    "url": "engineering/daily-tech-digest/2026-11-27.html",
+    "source_path": "engineering/daily-tech-digest/2026-11-27.html"
   },
   {
     "title": "每日技術摘要｜2026-11-26｜EKS 1.31 支援到期、BigQuery SQL 轉譯與 Azure 公告",
