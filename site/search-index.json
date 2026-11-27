@@ -11,9 +11,26 @@
       "Cloud",
       "資安"
     ],
-    "updated": "2026-11-27",
+    "updated": "2026-11-28",
     "url": "engineering/daily-tech-digest/index.html",
     "source_path": "engineering/daily-tech-digest/index.html"
+  },
+  {
+    "title": "每日技術摘要｜2026-11-28｜Quay 修補、Airflow 排查與 BigQuery 舊 API",
+    "description": "Quay 修補、Managed Airflow 與 BigQuery Storage API 遷移。",
+    "category": "engineering",
+    "category_label": "工程",
+    "tags": [
+      "每日摘要",
+      "資安",
+      "Kubernetes",
+      "資料工程",
+      "Cloud",
+      "AI"
+    ],
+    "updated": "2026-11-28",
+    "url": "engineering/daily-tech-digest/2026-11-28.html",
+    "source_path": "engineering/daily-tech-digest/2026-11-28.html"
   },
   {
     "title": "每日技術摘要｜2026-11-27｜Linux 核心修補、BigQuery 跨雲連線與 AWS Envoy",
